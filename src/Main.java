@@ -3,5 +3,7 @@ public class Main {
 
         System.out.println("Welcome to my project!");
         System.out.println("How are you");
+        System.out.println("By: Aiman");
+
     }
 }
